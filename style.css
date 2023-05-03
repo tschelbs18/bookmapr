@@ -1,0 +1,21 @@
+#map {
+    height: 500px;
+    overflow: hidden;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    max-width: 20%;
+    height: auto;
+}
+
+.card {
+    margin: 0 auto;
+    float: none;
+}
+
+.filter-card {
+    display: flex;
+    justify-content: center;
+}
